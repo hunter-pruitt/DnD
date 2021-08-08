@@ -1,0 +1,247 @@
+<style>
+  .phb#p1:after { display:none; }
+</style>
+
+<img src='https://orig00.deviantart.net/6fa6/f/2014/224/a/f/old_wizard_by_skiorh-d7utatm.png' class='cover-image' />
+
+<div class='cover-diamond'></div>
+
+<div class='cover-header'>Hookmaster Class</div>
+
+<div class='cover-splotch'></div>
+
+<div class='cover-footer'>Created: Hunter Pruitt</div>
+
+\pagebreak
+
+# Welcome  to your next campaign binder!
+
+## Overview on Creating
+
+GMBinder uses markdown for its primary content. To learn about Markdown and its supporting syntax, [check this out](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+In addition, GM Binder allows for HTML content within your document. However, "User Beware" warnings apply. Especially now in this early stage. Using HTML for things like images and links is pretty safe. However, structured HTML like divs, tables, etc, may have undesired consequences.
+
+## GMBinder Specific
+### Page Breaks
+* Using `\pagebreak` will result in a page break. Or press `Ctrl+;` or `Cnd+;` to insert this.
+* Using `\pagebreakNUm` will result in a page break with page number. Or press `Ctrl+'` or `Cnd+'` to insert this.
+
+### Links
+* Internal Links - Press Ctrl+Space to get a list of all of your document's headers. Press tab on one to insert the link into your document. ie: [Welcome to your next campaign binder!](#welcome-to-your-next-campaign-binder)
+* External Links - Using the standard markdown link syntax with an external URL will result in a link that opens a new tab. ie: [Staff of Darkening](https://www.dndbeyond.com/magic-items/29957-staff-of-anti-thunder-and-darkening)
+* If you would like the actual URL to show in your external link, a simple solution is to simply wrap it with < and >. ie: <https://www.gmbinder.com>
+
+### Table of Contents
+In the menu above, you'll see a Table of Contents for your document.
+
+### Images
+There are a couple ways you can place images. If you would like something positioned like you see on this page, you will need to provide the appropriate styles to do so. For example: 
+
+`<img src='https://www.gmbinder.com/assets/img/books.jpg' style='position:absolute;bottom:45px;right:30px;width:380px; mix-blend-mode:multiply;' />`
+
+If you would like to place an image in-line within your content, simply providing an image tag with an external URL will be sufficient. Do be aware that your images should be sized appropriately for the content.
+
+\columnbreak
+
+### Wrapping to Column Two
+Sometimes you want your content in column 1 to be cut short and continue on to column 2. The simplest way to accomplish this is to use:
+
+`\columnbreak`
+___
+You can also press `Ctrl+.` or `Cnd+.` to insert this.
+
+### Footnotes
+This is an example of using html and built in styles to get a desired output.
+
+`<div class='footnote'>Part 1 | Introduction</div>`
+
+<img src='https://www.gmbinder.com/assets/img/books.jpg' style='position:absolute;bottom:45px;right:30px;width:350px; mix-blend-mode:multiply;' />
+<div class='footnote'>Part 1 | Tutorial</div>
+
+## Basic Editor Shortcuts
+
+### Find and Replace
+* `Ctrl+F` or `Cmd+F` - Find
+* `Alt+Ctrl+F` or `Alt+Cmd+F` - Find & Replace
+
+### Editing
+* `Ctrl+Z` or `Cmd+Z` - Undo
+* `Ctrl+Shift+Z` or `Cmd+Shift+Z` - Redo
+* `Ctrl+D` or `Cmd+D` - Remove current line
+* `Ctrl+U` - Uppercase current selection
+* `Ctrl+Shift+U` - Lowercase current selection
+
+### Content Folding
+* `F2` - Fold / Unfold a block of content
+* `Ctrl+Cmd+Alt+0` Fold everything
+* `Shift+Cmd+Alt+0` UnFold everything
+
+### And Much More...
+* `Ctrl+Alt+H` or `Cmd+Alt+H` Shows all Editor Shortcuts
+
+
+\pagebreakNum
+
+## Kor
+Deeply reverent of the land and its sacred sites, the nomadic Kor live a sparse existence defined by their constant travels. Masters of ropes and hooks, they scale sheer cliffs and cross yawning chasms with such skill and agility they seem almost to take flight.
+
+### Physical Description
+Kor are tall, slender humanoids with light hair and gray, blue-gray, or ivory skin. All Kor have slightly pointed ears, and most males have short, fleshy barbels on their chins. They paint softly glowing geometric patterns on their faces and bodies, suggestive of the shapes and design of the hedrons that appear across Zendikar. Their clothing tends leave their arms and shoulders free to facilitate climbing, and they keep most of their gear in pouches and slings at their waists.
+
+### History
+The Kor of Zendikar live a sparse and nomadic existence. They travel mercilessly light, carrying with them only the essentials, valuing the portability of individual skill and strength of character over more "static" virtues. Despite their constant motion, the Kor revere locations in a deep sense. They travel in small bands along one of several pilgrimage routes, visiting dozens of sacred sites across the Zendikar. Each pilgrimage circuit takes decades, and many are lost to Zendikar's dangers along the way.
+
+### Society
+Kor have a strong sense of order in their communities and traditions that keep them together and they usually travel in small bands. The Kor are masters of ropes and hooks, using them to travel and to hunt, and incorporating them into their spirituality. They rarely use unreliable devices such as crossbows to propel their grappling hooks onto cliff faces or into flying game, relying instead on simple, sturdy rope and the skill of the arm. A hooked line is also a social and sacred symbol for the Kor, representing their connection to each other and to the world around them. Some Kor use mounts to travel.
+
+### Communication
+Kor communicate through a nonverbal language of gestures and hand signs–primarily out of need for long distance communication during their acrobatic stunts. This silent mean of communication is also useful when they do not wish for others to overhear them, which perpetuated rumors of their inability to speak. Those rumors are however false, as kor are fully capable of speech, but tend to prefer minimizing it to as few words as necessary to express their thoughts.
+
+\columnbreak
+
+### Kor Traits
+Kor are athletic climbers, known for their use of rope to swing and climb through the dizzying vertical terrain of Zendikar. Your Kor character has these traits:
+___ 
+  _**Ability Score Increase**_  Your Dexterity score increases by 2, and your Wisdom score increases by 1.  
+
+  _**Age**_ Kor mature at the same rate as humans and live to be about 200 years old.  
+
+ _**Alignment**_ Most Kor are lawful good, with a strong dedication to community and the traditions of their ancestors.  
+
+ _**Size**_ Kor average nearly 6 feet tall and weigh between 100 and 130 pounds. Your size is Medium.
+
+ _**Speed**_ Your base walking speed is 30 feet. You also have a climbing speed of 30 feet as long as you are not encumbered or wearing heavy armor.
+
+ _**Kor Climbing**_ You are proficient in both the Athletics and Acrobatics skills.
+
+ _**Lucky**_ When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
+
+ _**Brave**_ You have advantage on saving throws against being frightened.
+
+ _**Languages**_ You can speak, read, and write Common, and communicate in the silent speech of the Kor.
+
+
+
+
+<div class='footnote'>Part 1 | Kor Race</div>
+
+\pagebreakNum
+
+
+
+## Hookmaster  
+_**Hookmasters learn the traditions from previous masters, devoting thier lives to the specialization of their tools. Some use their specialized Skyhooks to be stealthy infiltrators, others for more nomadic lifestyles living in the mountains.**_
+
+&nbsp;
+
+_You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class._
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<div class='classTable wide'>
+
+
+#### The Hookmaster
+| Level | Proficiency Bonus | Skyhook | Swift Climbing | Hook Maneuvers | Features | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st  | +2 | 1d6  | 30' | - | Skyhook, Swift Climbing |
+| 2nd  | +2 | 1d6  | 35' | 1 | Cunning Action, Hook Maneuver |
+| 3rd  | +2 | 1d6  | 35' | 1 | Hookmaster Tradition |
+| 4th  | +2 | 1d6  | 35' | 2 | Ability Score Improvement, Slow Fall |
+| 5th  | +3 | 1d8  | 35' | 2 | Extra Attack |
+| 6th  | +3 | 1d8  | 40' | 2 | Hookmaster Tradition Feature |
+| 7th  | +3 | 1d8  | 40' | 3 | Evasion |
+| 8th  | +3 | 1d8  | 40' | 3 | Ability Score Improvement |
+| 9th  | +4 | 1d8  | 40' | 3 | — |
+| 10th | +4 | 1d10 | 45' | 4 | — |
+| 11th | +4 | 1d10 | 45' | 4 | Hookmaster Tradition Feature |
+| 12th | +4 | 1d10 | 45' | 4 | Ability Score Improvement |
+| 13th | +5 | 1d10 | 45' | 4 | — |
+| 14th | +5 | 1d10 | 50' | 4 | — |
+| 15th | +5 | 1d10 | 50' | 5 | — |
+| 16th | +5 | 1d10 | 50' | 5 | Ability Score Improvement |
+| 17th | +6 | 1d12 | 50' | 5 | Hookmaster Tradition Feature |
+| 18th | +6 | 1d12 | 50' | 5 | — |
+| 19th | +6 | 1d12 | 50' | 5 | Ability Score Improvement |
+| 20th | +6 | 1d12 | 50' | 5 | — |
+
+</div class='classTable wide'>
+
+
+\columnbreak
+
+## Class Features
+As a hookmaster, you gain the following class features
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per class_name level
+- **Hit Points at 1st Level:** 8 + your Constitution Modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per hookmaster level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light
+- **Weapons:** Simple weapons, shortswords, skyhook
+- **Tools:** Skyhook
+
+___
+- **Saving Throws:** Strength, Dexterity
+- **Skills:** Choose two from Acrobatics, Animal Handling, Athletics, Insight, History, Perception, Performance, Stealth, and Survival 
+
+\columnbreak
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a shortsword or *(b)* any simple weapon
+- *(a)* a burglar's pack *(b)* dungeoneer's pack, or (c) an explorer's pack
+- Traditional skyhook
+
+### Skyhook
+At first level you are proficient with the use of a Skyhook. Skyhooks are multifuctional climbing tools and weapons. You can roll a d6 in place of the normal damage of your skyhook. This die changes as you gain Hookmaster levels, as shown in the Skyhook column of the Hookmaster table.
+
+\pagebreak
+
+### Swift Climbing
+Starting at level one, you gain the ability to climb using your skyhook. While you are using your skyhook, and wearing no armor or light armor, you have a base climbing speed of 30 feet. This climbing speed changes according to the Swift Climbing column of the Hookmaster chart.
+
+In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier.
+
+### Cunning Action
+Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action.
+
+### Hook Maneuver
+Stating at 2nd level, you learn Hook maneuvers that are fueled by special dice called superiority dice.
+
+__*Hook Maneuvers*__ Choose one of the options from the list of Hookmaster manuevers in Part 3 of this class guide. Many hook maneuvers enhance an attack in some way. You can use only one hook maneuver per attack. You learn additional hook maneuvers of your choice at higher levels, as shown in the Hook Maneuvers column of the Hookmaster table. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
+
+__*Superiority Dice.*__  You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when you finish a short or long rest. You gain another superiority die at 7th level and one more at 15th level.
+
+__*Saving Throws.*__ Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+
+__*Maneuver save DC*__ = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+
+### Hookmaster Specialization
+When you reach 3rd level, you commit yourself to specializing with a specific type of skyhook. Your specialization grants you features at 3rd level and again at 6th, 11th, and 17th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Slow Fall
+Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your monk level.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Evasion
+Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an Ice Storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+
+<div class='footnote'>Part 2 | Hookmaster Class </div>
